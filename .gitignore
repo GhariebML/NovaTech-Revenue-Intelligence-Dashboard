@@ -1,0 +1,12 @@
+# Exclude large binary bundle & local temp/cache files
+NovaTech_Revenue_Intelligence_Submission.zip
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.tmp
+~$*.docx
+~$*.xlsx
+~$*.pptx
+.DS_Store
+Thumbs.db

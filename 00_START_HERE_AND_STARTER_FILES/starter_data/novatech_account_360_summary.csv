@@ -1,0 +1,86 @@
+account_id,company_name,industry,company_size_tier,headquarters,sales_regions,total_deals,won_deals,lost_deals,total_won_revenue_usd,avg_days_to_close,win_rate_pct,marketing_leads,campaign_responses,marketing_closed_won,total_campaign_spend_usd,total_attributed_rev_usd,total_tickets,negative_tickets,critical_high_tickets,unresolved_tickets,avg_resolution_days,max_tickets_last_30d,total_downtime_minutes,negative_sentiment_pct,at_risk_account_flag
+ACCT-041,YieldMax Software,Software,Enterprise,United States,"East, West",15,8,7,40722.0,66.5,53.3,1,0,0,534.8,0.0,334,63,46,7,2.06,13,4584,18.9,1
+ACCT-035,TrueNorth Electronics,Technology,Enterprise,Korea,"Central, West",16,10,6,16747.0,56.2,62.5,1,1,0,11974.26,1085.4,180,46,30,4,1.81,17,3549,25.6,1
+ACCT-076,LionGate Holdings,Financial Services,Enterprise,United States,West,8,6,2,16275.0,61.8,75.0,3,0,0,19813.25,0.0,176,38,28,2,2.06,14,2704,21.6,1
+ACCT-043,AlphaCore Technologies,Technology,Enterprise,United States,"East, West",12,6,6,14874.0,62.9,50.0,1,0,0,6665.52,0.0,171,36,21,2,2.08,12,2162,21.1,1
+ACCT-060,RedCedar Software,Software,Enterprise,United States,West,7,4,3,15780.0,28.9,57.1,2,0,0,18328.92,0.0,142,35,27,7,1.59,14,1597,24.6,1
+ACCT-036,UltraLink Communications,Telecommunications,Enterprise,United States,East,7,5,2,7950.0,22.1,71.4,2,0,0,4915.82,0.0,140,37,24,2,1.93,16,3284,26.4,1
+ACCT-020,MapleCrest Retail,Retail,Enterprise,United States,West,4,2,2,6006.0,66.0,50.0,1,0,0,1764.9,0.0,109,22,16,2,1.59,11,1031,20.2,1
+ACCT-072,HavenCrest Communications,Telecommunications,Enterprise,United States,Central,16,8,8,13789.0,62.8,50.0,2,0,0,3555.1099999999997,0.0,90,28,17,3,2.16,12,2430,31.1,1
+ACCT-025,PineRidge Global,Retail,Enterprise,Japan,East,6,5,1,13592.0,60.5,83.3,1,1,1,7437.67,3193.74,89,19,14,5,1.8,13,954,21.3,1
+ACCT-018,LakeView Software,Software,Enterprise,United States,Central,4,4,0,8974.0,131.2,100.0,1,0,0,10191.9,0.0,83,13,9,3,2.1,9,1043,15.7,0
+ACCT-083,SapphireCode Software,Software,Enterprise,United States,East,4,0,4,0.0,35.2,0.0,3,0,0,15052.16,0.0,80,25,11,0,2.16,10,1800,31.2,0
+ACCT-038,WestBridge Medical,Healthcare,Large,United States,Central,5,4,1,11926.0,35.8,80.0,3,2,2,18832.469999999998,5075.73,69,13,11,1,2.19,15,780,18.8,0
+ACCT-010,EliteWave Media,Media & Entertainment,Enterprise,United States,West,8,5,3,13120.0,60.5,62.5,2,0,0,9022.25,0.0,67,14,12,0,1.96,15,1720,20.9,0
+ACCT-077,MoonRise Entertainment,Media & Entertainment,Enterprise,United States,East,5,2,3,1011.0,71.8,40.0,2,0,0,6351.9,0.0,57,14,7,2,1.71,10,684,24.6,0
+ACCT-058,PrimeCell Medical,Healthcare,Enterprise,United States,Central,6,4,2,10972.0,86.2,66.7,1,0,0,3198.84,0.0,55,14,9,0,1.96,12,1070,25.5,0
+ACCT-062,StoneHarbor Medical,Healthcare,Enterprise,United States,East,6,5,1,17362.0,94.3,83.3,2,1,1,24870.239999999998,1750.75,49,13,8,1,1.77,16,1483,26.5,0
+ACCT-078,NovaCrest Workforce,Professional Services,Enterprise,United States,West,9,6,3,5960.0,87.3,66.7,2,0,0,16249.18,0.0,48,11,5,2,1.7,9,497,22.9,0
+ACCT-024,PeakVista Capital,Financial Services,Enterprise,United States,Central,10,9,1,15381.0,49.9,90.0,8,4,3,50650.619999999995,8536.079999999998,46,10,7,0,1.96,10,579,21.7,0
+ACCT-048,FrontLine Marketing,Marketing & Advertising,Enterprise,Jordan,East,3,1,2,4370.0,50.3,33.3,4,2,0,33701.8,1231.5900000000001,44,10,10,1,2.16,14,868,22.7,0
+ACCT-026,QuartzPoint Trading,Retail,Large,United States,East,6,4,2,14872.0,56.7,66.7,4,0,0,13955.49,0.0,40,8,3,0,1.72,14,497,20.0,0
+ACCT-037,Vanguard Marketing Group,Marketing & Advertising,Enterprise,United States,Central,10,8,2,14669.0,53.1,80.0,5,1,1,38347.01,1220.46,39,9,9,0,1.92,11,373,23.1,0
+ACCT-011,Falcon Software,Software,Large,United States,Central,12,9,3,20912.0,78.8,75.0,2,0,0,18473.059999999998,0.0,37,15,6,3,2.35,8,672,40.5,0
+ACCT-031,SummitEdge Marketing,Marketing & Advertising,Enterprise,United States,West,5,2,3,1200.0,27.8,40.0,2,0,0,5593.29,0.0,35,8,3,0,1.69,14,306,22.9,0
+ACCT-053,KaleidoScope Retail,Retail,Large,United States,West,2,0,2,0.0,98.5,0.0,3,1,1,19848.47,1439.68,34,7,5,2,1.34,11,670,20.6,0
+ACCT-056,NetPulse Technologies,Technology,Enterprise,Panama,Central,7,5,2,12716.0,67.4,71.4,4,0,0,6602.04,0.0,33,5,8,0,2.27,12,358,15.2,0
+ACCT-075,KestrelWing Services,Business Services,Enterprise,United States,Central,5,4,1,9645.0,81.8,80.0,2,0,0,2173.31,0.0,33,6,3,2,1.94,10,414,18.2,0
+ACCT-045,CedarPoint Medical,Healthcare,Enterprise,United States,West,3,2,1,27933.0,29.7,66.7,3,1,0,13722.05,102.39,30,6,8,0,1.77,17,462,20.0,0
+ACCT-073,IndigoVault Finance,Financial Services,Enterprise,United States,East,4,3,1,11419.0,14.8,75.0,3,0,0,11853.72,0.0,29,5,3,0,1.9,12,215,17.2,0
+ACCT-085,Horizon Marketing,Marketing & Advertising,Large,United States,Central,7,7,0,13105.0,78.9,100.0,3,2,1,29265.28,5092.21,28,3,3,1,2.19,12,226,10.7,0
+ACCT-063,TideWater Retail,Retail,Enterprise,United States,West,10,7,3,9687.0,88.4,70.0,3,1,0,11397.82,157.48,28,7,4,1,2.0,13,404,25.0,0
+ACCT-079,OpticWave Retail,Retail,Large,United States,East,1,1,0,1167.0,2.0,100.0,2,1,0,15216.42,201.62,27,4,1,0,2.52,8,198,14.8,0
+ACCT-021,MeridianComm,Telecommunications,Enterprise,United States,West,5,2,3,3864.0,97.6,40.0,4,1,1,23138.61,2657.16,26,6,4,0,1.96,14,225,23.1,0
+ACCT-023,OakBridge Staffing,Professional Services,Large,United States,West,7,6,1,10009.0,88.1,85.7,4,1,1,25088.12,4468.68,22,4,4,0,1.64,7,332,18.2,0
+ACCT-064,UrbanLink Telecom,Telecommunications,Enterprise,United States,West,6,4,2,5405.0,120.3,66.7,2,0,0,4806.56,0.0,20,3,1,0,2.2,12,325,15.0,0
+ACCT-065,VoltEdge Finance,Financial Services,Large,United States,Central,4,3,1,3353.0,41.0,75.0,3,0,0,4228.1900000000005,0.0,17,3,0,0,1.94,9,123,17.6,0
+ACCT-017,KeyStone Innovations,Technology,Large,United States,East,5,3,2,6523.0,24.4,60.0,6,2,2,45802.36,3966.12,17,3,2,0,1.76,8,254,17.6,0
+ACCT-046,DawnBreak Pharma,Healthcare,Large,United States,West,4,1,3,4689.0,79.5,25.0,3,0,0,25588.659999999996,0.0,16,4,3,0,2.94,7,302,25.0,0
+ACCT-059,QuantumShift Tech,Technology,Large,United States,Central,8,6,2,8363.0,84.2,75.0,8,2,2,47671.0,6390.2,16,4,0,0,1.25,9,228,25.0,0
+ACCT-040,XenonGrid Retail,Retail,Large,United States,West,5,2,3,4633.0,123.4,40.0,1,0,0,652.06,0.0,16,2,3,0,2.38,8,258,12.5,0
+ACCT-067,CrossPoint Retail,Retail,Large,Belgium,Central,5,4,1,1727.0,72.2,80.0,5,1,0,23518.83,639.14,14,7,0,0,1.93,8,65,50.0,0
+ACCT-013,GreenField Tech,Technology,Large,United States,Central,5,3,2,10135.0,88.8,60.0,4,2,1,33140.11,1505.87,13,3,3,0,2.62,13,171,23.1,0
+ACCT-022,NorthStar Finance,Financial Services,Large,United States,Central,10,4,6,7339.0,98.9,40.0,8,2,1,76400.05,1065.63,11,6,1,0,1.27,9,94,54.5,0
+ACCT-019,LunarEdge Marketing,Marketing & Advertising,Large,United States,East,2,1,1,572.0,126.0,50.0,4,1,1,32202.89,3325.23,10,0,0,0,2.0,7,159,0.0,0
+ACCT-008,DataStream Analytics,Software,Large,United States,East,4,2,2,1304.0,106.0,50.0,7,3,1,29386.77,2705.84,10,2,1,1,1.44,14,126,20.0,0
+ACCT-042,ZenithMart,Retail,Large,United States,East,3,2,1,4515.0,48.0,66.7,7,2,2,40432.47,5903.209999999999,9,2,2,0,1.67,5,349,22.2,0
+ACCT-050,HighTower Consulting,Business Services,Large,Germany,West,2,1,1,5194.0,106.5,50.0,8,4,2,58259.8,7317.45,9,2,1,0,2.33,6,86,22.2,0
+ACCT-028,SilverLine Tech,Technology,Large,Norway,Central,7,6,1,12973.0,67.3,85.7,4,1,1,22163.510000000002,2559.36,9,0,0,0,1.33,6,32,0.0,0
+ACCT-001,Apex Dynamics,Technology,Large,United States,East,4,3,1,12151.0,48.5,75.0,3,1,1,14431.87,3100.27,9,1,3,0,2.11,13,365,11.1,0
+ACCT-007,CyberNova Systems,Technology,Large,United States,East,4,0,4,0.0,10.5,0.0,6,1,1,37410.23,3146.59,8,1,0,0,2.38,10,61,12.5,0
+ACCT-055,MossCreek Retail,Retail,Large,United States,East,7,2,5,5681.0,55.7,28.6,5,2,2,22313.44,4697.28,8,2,2,0,2.62,6,75,25.0,0
+ACCT-057,OmniReach Telecom,Telecommunications,Large,United States,West,4,3,1,3327.0,29.2,75.0,4,2,2,16621.48,6130.27,8,2,2,0,1.62,10,67,25.0,0
+ACCT-069,EchoField Marketing,Marketing & Advertising,Large,Poland,West,3,1,2,4719.0,69.3,33.3,5,2,1,24297.11,1759.4699999999998,8,3,0,0,1.88,6,185,37.5,0
+ACCT-009,EaglePoint Commerce,Retail,Large,United States,Central,9,4,5,5953.0,47.7,44.4,7,1,0,38718.41,734.69,6,0,0,1,2.4,3,52,0.0,0
+ACCT-004,ClearView Health,Healthcare,Large,Philipines,Central,8,6,2,9824.0,39.9,75.0,7,2,1,41625.07,2400.94,6,3,0,0,2.17,10,51,50.0,0
+ACCT-049,GoldLeaf Services,Business Services,Large,Brazil,West,5,2,3,623.0,94.4,40.0,12,2,2,71012.8,7670.23,6,1,1,1,1.8,11,84,16.7,0
+ACCT-032,TerraBloom Services,Business Services,Large,United States,West,6,4,2,4361.0,67.3,66.7,9,1,0,30706.519999999997,610.36,6,2,0,1,1.2,10,19,33.3,0
+ACCT-027,RiverStone Imports,Retail,Large,Italy,Central,9,6,3,16866.0,27.7,66.7,5,2,2,29342.71,2616.3,6,1,1,0,2.0,11,59,16.7,0
+ACCT-047,EverGlow Studios,Media & Entertainment,Large,United States,East,4,3,1,1104.0,93.5,75.0,8,4,3,64043.990000000005,9203.36,5,2,1,0,2.2,5,71,40.0,0
+ACCT-051,IvyBridge Staffing,Professional Services,Large,United States,East,4,2,2,6871.0,58.0,50.0,5,1,0,23365.98,236.67,5,2,1,0,1.4,5,70,40.0,0
+ACCT-003,BrightPath Medical,Healthcare,Large,Kenya,Central,11,8,3,9033.0,55.1,72.7,12,4,4,68197.87,9095.18,5,2,1,0,1.8,10,69,40.0,0
+ACCT-006,CrestLine Retail,Retail,Large,United States,West,7,6,1,14168.0,109.3,85.7,8,2,1,27400.78,3804.98,4,3,1,0,1.75,6,73,75.0,0
+ACCT-034,TitanForge Services,Business Services,Large,United States,West,4,1,3,454.0,55.2,25.0,7,0,0,21841.97,0.0,4,0,1,0,3.5,5,67,0.0,0
+ACCT-016,JetStream Technologies,Technology,Large,United States,West,3,1,2,5283.0,20.0,33.3,8,1,1,42889.840000000004,2912.32,4,0,1,0,1.25,6,520,0.0,0
+ACCT-074,JuniperRock Capital,Financial Services,Medium,United States,East,4,3,1,6243.0,133.8,75.0,12,1,1,73804.44,3719.84,4,1,0,0,1.25,10,13,25.0,0
+ACCT-039,WindRiver Electronics,Technology,Large,United States,East,3,0,3,0.0,8.0,0.0,13,5,4,88675.83,9069.52,3,2,0,0,1.0,1,149,66.7,0
+ACCT-080,PebbleBrook Retail,Retail,Small,United States,East,4,2,2,983.0,91.2,50.0,96,24,15,546423.91,43284.11,3,1,0,0,2.0,17,112,33.3,0
+ACCT-033,ThunderBay Retail,Retail,Medium,United States,West,2,2,0,9040.0,102.0,100.0,23,3,2,90274.85,6431.46,3,0,0,0,2.33,6,6,0.0,0
+ACCT-071,GraniteShore Retail,Retail,Medium,United States,Central,4,1,3,617.0,61.0,25.0,16,5,3,73586.9,8824.99,3,0,0,0,1.67,7,17,0.0,0
+ACCT-002,BioVantage Labs,Healthcare,Medium,United States,East,4,3,1,9428.0,85.5,75.0,23,7,4,147521.13,10147.84,2,1,0,1,4.0,9,57,50.0,0
+ACCT-084,TangleRoot Medical,Healthcare,Large,United States,Central,4,2,2,1578.0,79.0,50.0,14,3,2,56279.55,5221.49,2,1,0,0,3.0,3,0,50.0,0
+ACCT-054,LightWave Studios,Media & Entertainment,Medium,United States,West,4,2,2,5581.0,61.8,50.0,15,4,0,63126.03,1208.49,2,0,1,0,2.0,2,449,0.0,0
+ACCT-029,SkyCrest Telecom,Telecommunications,Small,United States,Central,6,4,2,10588.0,69.5,66.7,59,19,15,356046.07,39367.53,2,0,1,0,2.0,7,15,0.0,0
+ACCT-015,IronClad Entertainment,Media & Entertainment,Medium,United States,Central,5,5,0,4029.0,60.8,100.0,23,7,4,101354.16,11862.41,2,0,0,0,3.0,3,17,0.0,0
+ACCT-070,ForestGlen Medical,Healthcare,Medium,United States,East,1,0,1,0.0,113.0,0.0,9,3,3,56068.7,7547.3099999999995,2,0,1,0,3.0,5,18,0.0,0
+ACCT-082,RavenCroft Studios,Media & Entertainment,Medium,United States,West,5,4,1,2247.0,90.8,80.0,13,2,2,86044.96,6281.0,2,1,0,0,1.0,5,23,50.0,0
+ACCT-052,JadeVault Finance,Financial Services,Medium,United States,East,4,3,1,9769.0,44.8,75.0,13,3,2,57903.37,6683.96,2,1,1,0,4.0,8,51,50.0,0
+ACCT-005,CoralBay Pharma,Healthcare,Large,United States,East,7,5,2,17205.0,83.1,71.4,15,4,2,69166.97,6158.66,1,0,0,0,0.0,0,0,0.0,0
+ACCT-014,HarborView Digital,Software,Small,United States,West,5,4,1,9288.0,69.8,80.0,49,16,12,276379.01,29007.37,1,0,0,0,5.0,7,0,0.0,0
+ACCT-012,FreshStart Medical,Healthcare,Small,United States,"Central, East, West",8,5,3,15361.0,63.8,62.5,1035,289,193,5745180.72,520026.27,1,0,1,0,2.0,1,45,0.0,0
+ACCT-044,BluePeak Marketing,Marketing & Advertising,Large,United States,Central,6,5,1,9101.0,100.8,83.3,18,4,3,110548.36,9131.22,1,0,0,0,0.0,7,0,0.0,0
+ACCT-030,SolarWind Finance,Financial Services,Small,United States,West,5,2,3,4554.0,21.6,40.0,96,28,21,487578.22000000003,58037.14,1,1,0,0,1.0,1,0,100.0,0
+ACCT-068,DuskValley Trading,Retail,Medium,Romania,East,4,2,2,5856.0,71.5,50.0,31,6,4,152339.0,12972.11,1,0,0,0,2.0,3,0,0.0,0
+ACCT-066,WillowBrook Staffing,Professional Services,Medium,United States,Central,6,4,2,5382.0,59.8,66.7,21,3,3,129646.38,8380.98,1,0,0,0,3.0,5,0,0.0,0
+ACCT-061,SkyBridge Marketing,Marketing & Advertising,Small,United States,Central,8,6,2,14873.0,57.2,75.0,114,32,19,548885.71,53123.58,1,1,0,0,3.0,1,0,100.0,0
+ACCT-081,QuailRidge Tech,Technology,Small,China,East,3,3,0,2326.0,83.7,100.0,115,30,22,700231.78,61552.729999999996,1,0,1,0,1.0,4,45,0.0,0

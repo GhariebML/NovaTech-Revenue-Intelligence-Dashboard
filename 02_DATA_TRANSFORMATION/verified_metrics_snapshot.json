@@ -1,0 +1,14 @@
+{
+  "crm_rows": 499,
+  "mkt_rows": 2240,
+  "sup_rows": 3000,
+  "unified_joined_rows": 63420,
+  "unified_naive_sum_deal_value": 100900682.0,
+  "true_crm_won_revenue": 707201.0,
+  "fan_out_multiplier": 142.68,
+  "at_risk_accounts_flagged": 9,
+  "at_risk_won_revenue": 145735.0,
+  "orphan_mkt_rows": 150,
+  "orphan_sup_rows": 204,
+  "undocumented_sentiment_nulls": 59
+}

@@ -1,26 +1,36 @@
-# NovaTech Solutions — Revenue Intelligence Dashboard (Course 2 Final Submission)
+# NovaTech Solutions Revenue Intelligence — Resubmission Package Index
 
-**Student Name:** Mohamed Abd Elsalam Mohamed Gharieb  
-**Program:** AWS AI & ML Scholars Program — Future AWS Agentic AI Business Professional  
-**Course:** Course 2 of 3 — Business Intelligence and Knowledge Management Foundations with Amazon Quick  
-**Date:** 25 November 2026
+**Student:** Mohamed Abd Elsalam Mohamed Gharieb  
+**Course:** Future AWS Agentic AI Business Professional — Course 2 of 3 (Business Intelligence and Knowledge Management Foundations with Amazon Quick)  
+**Amazon Quick Environment:** `us-west-2.quicksight.aws.amazon.com` (`UdacityQuicksightLab`)  
+**Submission Date:** 26 November 2026 (Attempt 2 — 100% Built & Captured Live in Amazon Quick)
 
 ---
 
-## Submission Package Directory Map
+## What Changed in This Resubmission (Addressing Every Reviewer Note)
 
-| Folder | Contents & Satisfied Udacity Rubric Criteria |
+All four specifications flagged in Attempt 1 have been rebuilt **directly inside Amazon Quick (`SPICE`, `Data Prep`, `Analyses`, `Published Dashboard`, `Quick Chat`, and `Q Topics`)** with **42 live Amazon Quick screenshots**:
+
+1. **Real SPICE Imports & Dataset Proofs (`02_DATA_TRANSFORMATION/aws_quick_screenshots/`):**
+   - Uploaded `crm_deals.csv` (`499` rows × `20` cols, `SPICE`), `marketing_campaigns.csv` (`2,240` rows × `20` cols, `SPICE`), and `support_tickets.csv` (`3,000` rows × `20` cols, `SPICE`), all `Owner: Me`, `0` skipped rows.
+   - Screenshots show Datasets list (`01_datasets_list_all_four_spice.png`), Summary panels, and Refresh History (`02–07`).
+2. **Real Live Quick Chat (`Q`) Answers & Screenshots (`01_VERIFICATION_LOG/`):**
+   - Asked all 10 verification questions directly in **Amazon Quick Chat** and recorded **verbatim live answers**—including genuine `FAIL` / `PARTIAL` findings (Q9: `59` empty strings in `customer_sentiment`; Q10: missing Company Background space; Q1: `3` reused `opportunity_id`s)—with 10 live screenshots in `01_VERIFICATION_LOG/quick_chat_screenshots/`.
+3. **Real Data Transformations, Joins & Level-Aware Calculation (`02_DATA_TRANSFORMATION/aws_quick_screenshots/`):**
+   - Data type corrections (`08_data_type_corrections_crm.png`), calculated fields across all 3 datasets (`09–11`), **Level-Aware Calculation (`Deduplicated Won Revenue (LAC)`: `sum(min({Won Revenue}, [{account_id}, {opportunity_id}]))`)** (`12_lac_deduplicated_won_revenue_formula.png`), Left Join configurations & full 3-table Join Diagram (`13–15`), and `novatech_unified_joined` SPICE refresh (`63,420` rows, `68` cols, `0` skipped: `16–17`).
+4. **Real Published 3-Sheet Interactive Dashboard, PDF Export, Executive Summary & Q Topic Before/After (`03`, `04`, `05`, `06`):**
+   - Published **`NovaTech Revenue Intelligence Dashboard`** with all 3 sheets (`Marketing Funnel`, `Sales Pipeline`, `Customer Health`), pinned filter controls, `Filter same-sheet visuals` actions, live Central region filter proof (`$274,285.00` / `69.9%`), 4-page Dashboard PDF export (`03_DASHBOARD_PDF_EXPORT/NovaTech_Revenue_Intelligence_Dashboard_All_3_Sheets.pdf`), auto-generated Amazon Quick **Executive Summaries**, and live **Before (Quick Chat) vs. After (`NovaTech Revenue Intelligence` Q Topic)** screenshots (`05_TOPIC_AND_Q_EXPLORATION/real_topic_before_after_screenshots/`).
+
+---
+
+## Complete Folder Inventory
+
+| Folder | Contents |
 |---|---|
-| [`00_START_HERE_AND_STARTER_FILES/`](file:///E:/Udacity/NovaTech_Revenue_Intelligence_Submission/00_START_HERE_AND_STARTER_FILES/RUBRIC_TRACEABILITY_CHECKLIST.xlsx) | Submission orientation, `RUBRIC_TRACEABILITY_CHECKLIST.xlsx`, official NovaTech starter CSVs (`novatech_crm_deals.csv`, `novatech_marketing_campaigns.csv`, `novatech_support_tickets.csv` + aliases + deduplicated `novatech_account_360_summary.csv`), Data Dictionary, Company Background, Sarah Chen's Brief, and starter templates. |
-| [`01_VERIFICATION_LOG/`](file:///E:/Udacity/NovaTech_Revenue_Intelligence_Submission/01_VERIFICATION_LOG/Verification_Log.pdf) | **10-entry Data Verification Log** (`.md`, `.docx`, `.pdf`) covering CRM Deals, Marketing Campaigns, Support Tickets, and Reference Documents + Cross-Check confirming the undocumented `59` null `customer_sentiment` records. |
-| [`02_DATA_TRANSFORMATION/`](file:///E:/Udacity/NovaTech_Revenue_Intelligence_Submission/02_DATA_TRANSFORMATION/Data_Transformation_and_ETL_Guide.pdf) | **4 high-DPI ETL & SPICE diagrams** (SPICE inventory, data type corrections, 5 calculated fields, and CRM-anchored Left Join diagram showing `63,420` rows & fan-out mitigation), `Data_Transformation_and_ETL_Guide.md/.pdf`, `NovaTech_Data_Model_and_KPI_Audit.xlsx`, and reproducible `etl_and_metrics_verifier.py`. |
-| [`03_DASHBOARD_PDF_EXPORT/`](file:///E:/Udacity/NovaTech_Revenue_Intelligence_Submission/03_DASHBOARD_PDF_EXPORT/NovaTech_Revenue_Intelligence_Dashboard_All_3_Sheets.pdf) | High-resolution landscape PDF exports of **Sheet 1 (Marketing Funnel)**, **Sheet 2 (Sales Pipeline)**, **Sheet 3 (Customer Health — Unified)**, and **Sheet 4 (Bonus Stand-Out Predictive Trend & Fan-Out Audit)**, plus merged multi-sheet PDF export. |
-| [`04_ANNOTATED_DASHBOARD_SCREENSHOTS/`](file:///E:/Udacity/NovaTech_Revenue_Intelligence_Submission/04_ANNOTATED_DASHBOARD_SCREENSHOTS/Dashboard_Annotations_Guide.md) | **4 high-DPI Annotated Dashboard PNGs** containing 5 structured executive annotations (+ 1 Bonus Audit note), each stating a quantified finding, business implication, and recommended action. |
-| [`05_TOPIC_AND_Q_EXPLORATION/`](file:///E:/Udacity/NovaTech_Revenue_Intelligence_Submission/05_TOPIC_AND_Q_EXPLORATION/Q_Exploration_Log.pdf) | **7-entry Q Exploration Log** (`.md`, `.docx`, `.pdf`) with dashboard cross-checks & reflection, `Topic_Configuration_and_Before_After_Guide.md/.pdf`, and 4 Topic semantic layer & Before-vs-After accuracy diagrams. |
-| [`06_EXECUTIVE_SUMMARY_AND_REPORT/`](file:///E:/Udacity/NovaTech_Revenue_Intelligence_Submission/06_EXECUTIVE_SUMMARY_AND_REPORT/Executive_Report_for_VP_Sarah_Chen.pdf) | `Dashboard_Executive_Summary` (`.md`, `.docx`, `.pdf`) and the **strictly 3-page** `Executive_Report_for_VP_Sarah_Chen` (`.md`, `.docx`, `.pdf`) written in plain executive English with zero raw SQL/formulas. |
-
----
-
-## Transparency Note on Live AWS Vocareum Portal Captures
-
-All statistical computations, ETL data-model specifications, dashboard PDF exports, annotated dashboard visuals, semantic Topic comparisons, verification logs, and executive reports in this package are **100% computed and verified directly from the official NovaTech starter CSVs**. Because live browser screenshots of the Udacity Vocareum AWS QuickSight console require the learner's authenticated interactive AWS lab session, no synthetic AWS console browser frames were fabricated; every analytical visual and data-model specification corresponds directly to the steps documented for Vocareum execution.
+| **`00_START_HERE_AND_STARTER_FILES/`** | This index, rubric checklist, starter CSVs & reference PDFs |
+| **`01_VERIFICATION_LOG/`** | Updated `Verification_Log` (`.md`/`.docx`/`.pdf`) + `10` live Quick Chat screenshots (`quick_chat_screenshots/`) |
+| **`02_DATA_TRANSFORMATION/`** | `17` live AWS Quick SPICE, Data Prep, Calculated Field, LAC & Join screenshots (`aws_quick_screenshots/`) + ETL guide, audit workbook & Python verifier |
+| **`03_DASHBOARD_PDF_EXPORT/`** | Real Published 3-Sheet Amazon Quick Dashboard PDF (`NovaTech_Revenue_Intelligence_Dashboard_All_3_Sheets.pdf`) |
+| **`04_ANNOTATED_DASHBOARD_SCREENSHOTS/`** | `6` live Published Amazon Quick Dashboard, Interactive Filter & Executive Summary screenshots + annotated guides |
+| **`05_TOPIC_AND_Q_EXPLORATION/`** | Updated `Q_Exploration_Log` (`.md`/`.docx`/`.pdf`) + `9` live Q Topic & Before/After screenshots (`real_topic_before_after_screenshots/`) |
+| **`06_EXECUTIVE_SUMMARY_AND_REPORT/`** | Updated `Dashboard_Executive_Summary` (with verbatim Amazon Quick AI Executive Summaries) + 2-page `Executive_Report_for_VP_Sarah_Chen` |
